@@ -31,10 +31,6 @@
 
 ---
 
-## 📸 Capturas de pantalla
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - Lenguaje: Java ☕
