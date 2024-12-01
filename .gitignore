@@ -1,0 +1,19 @@
+# Carpetas generadas automáticamente
+/build/
+/dist/
+/nbproject/
+
+# Archivos temporales
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos específicos del proyecto
+audioFiles.txt
+manifest.mf
