@@ -1,0 +1,6 @@
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Hat Closed 01.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Hat Open 03.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Snare Roll 02.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Rim Shot 01.wav
+
+

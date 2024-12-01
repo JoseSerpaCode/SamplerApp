@@ -1,0 +1,6 @@
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Crash 02.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Kick Cymbal 01.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Snare V02a.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\src\Sonidos\Tom4 V3.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\dist\Sonidos\Tom3 V1.wav
+C:\Users\joses\OneDrive\Documentos\Proyectos\Cursos-Programacion\JAVA\SamplerAPP\SamplerAPP\dist\Sonidos\Hat Open 01.wav
