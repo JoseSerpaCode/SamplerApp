@@ -1,6 +1,5 @@
 # Carpetas generadas automáticamente
 /build/
-/dist/
 /nbproject/
 
 # Archivos temporales
@@ -16,4 +15,3 @@ Thumbs.db
 
 # Archivos específicos del proyecto
 audioFiles.txt
-manifest.mf
